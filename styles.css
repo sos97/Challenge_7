@@ -99,7 +99,7 @@ body{
 	font-family: 'Kumbh Sans', sans-serif;
 	background-color: hsl(185, 75%, 39%);
     text-align: center;
-    padding-top: 50px;
+    padding-top: 100px;
     background-image: url("images/bg-pattern-top.svg"), url("images/bg-pattern-bottom.svg");
     background-size: 80% , 80%;
     background-position: -115% -150px, 220% 300px;
